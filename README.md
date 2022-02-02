@@ -1,15 +1,13 @@
-### Hi there 👋
+# 欢迎来到我的主页
 
+#### 儿时曾作杭州梦，
 
+#### 初到杭州似梦中。
 
-Here are some ideas to get you started:
+#### 笑把金樽邀落日，
 
-🔭 I study in Chengdu University of technology
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 绿杨城郭正春风。
+
+### 成都理工大学--仓颉
+
+![](https://github-readme-stats.vercel.app/api?username=cangjie)
